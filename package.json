@@ -1,6 +1,6 @@
 {
-  "name": "frog-utils",
-  "version": "1.0.0",
+  "name": "nguyenndd-frog-utils-sample",
+  "version": "1.0.1",
   "description": "Add a frog emoji to a given string and do some more frog stuff related 🐸",
   "main": "index.js",
   "scripts": {
